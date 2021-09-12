@@ -239,10 +239,11 @@ body{
     align-items: center;
     margin: auto;
     margin-bottom: 1rem;
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
     padding: 1rem;
     background-color: var(--Primary-Color);
     border-radius: 2rem;
+    height: auto;
 }
 
 .project-item:hover{
@@ -273,7 +274,7 @@ body{
 
 .project-item button {
     border-radius: 2rem;
-    background-color: black;
+    background-color: #FD5800;
     border: none;
     text-align: center;
     padding: 1rem;
@@ -295,10 +296,10 @@ body{
 }
 
   .project-item button:hover{
-      background-color: var(--Primary-Color);
+      background-color: #FF6347;
   }
 
-
+ 
 
 
 
