@@ -21,8 +21,10 @@ body{
     background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
+  
 }
+
+
 
 .hero-section{
     display: flex;
@@ -191,7 +193,7 @@ body{
     width: auto;
     text-align: center;
     text-decoration: none;
-    margin: 1rem;
+    margin: 0.5rem 0.3rem 0.5rem 0.3rem;
     border-radius: 1rem;
 }
 
@@ -221,7 +223,7 @@ body{
 
 .project-inline{
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: column wrap;
     margin: auto;
     height: auto;
     padding-left: 0rem;
